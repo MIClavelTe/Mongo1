@@ -6,7 +6,7 @@ var db = db.getSiblingDB('mongoBasics');
 db.dropDatabase();
 
 // create fake names for our users
-var firstNames = ['Sam', 'Bill', 'Roger', 'Sara', 'Natasha', 'Nivine'];
+var firstNames = ['Elia', 'Bill', 'Roger', 'Sara', 'Natasha', 'Nivine'];
 var lastNames = ['Lund', 'Noor', 'Riola', 'Henderson', 'Frank'];
 var usersRaw = [];
 
